@@ -1,9 +1,15 @@
+[![Latest release](https://img.shields.io/github/release/norbicki/Edifier-RC10D1.svg?logo=github)](https://github.com/norbicki/Edifier-RC10D1/releases/latest)
 # Edifier-RC10D1
 Remote control for Edifier R2730DB speakers
 
 #### Minimum requirements:
 - Android 5.0+
 - phone with infrared emitter
+
+#### Installation:
+Download the .apk file from the [folder](https://github.com/norbicki/Edifier-RC10D1/releases/latest) and install on your device.
+
+***
 
 <sup>Edifier-RC10D1 Copyright (C) 2023 Norbert Rybicki</sup>
 
