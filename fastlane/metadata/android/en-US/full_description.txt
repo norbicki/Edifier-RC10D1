@@ -1,0 +1,1 @@
+A simple, unofficial remote control for Edifier R2730DB speakers for phones equipped with an infrared emitter.
