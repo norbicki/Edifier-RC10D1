@@ -1,4 +1,5 @@
 [![Latest release](https://img.shields.io/github/release/norbicki/Edifier-RC10D1.svg?logo=github)](https://github.com/norbicki/Edifier-RC10D1/releases/latest)
+[![F-Droid](https://img.shields.io/f-droid/v/ir.remote.edifier.rc10d1)](https://f-droid.org/packages/ir.remote.edifier.rc10d1)
 # Edifier-RC10D1
 Remote control for Edifier R2730DB speakers
 
@@ -7,7 +8,9 @@ Remote control for Edifier R2730DB speakers
 - phone with infrared emitter
 
 #### Installation:
-Download the .apk file from the [folder](https://github.com/norbicki/Edifier-RC10D1/releases/latest) and install on your device.
+Download the .apk file from the [folder](https://github.com/norbicki/Edifier-RC10D1/releases/latest) and install on your device or
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">](https://f-droid.org/packages/ir.remote.edifier.rc10d1/)
 
 ***
 
